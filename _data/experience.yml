@@ -9,7 +9,7 @@
    Developed new and updated existing Automation test cases using <mark>Allure Framework</mark> for documentaion and reports, <mark>TestNG</mark> as test runner 
    and using <mark>Maven</mark> as build tool and <mark>Jenkins</mark> to create and run deployment jobs.  
    For UI testing we used <mark>Selenide</mark>, Chrome Devtools and Xpath  
-   For API testing we used <mark>REST-assured</mark>, Postman and Fiddler
+   For API testing we used <mark>REST-assured</mark>, Postman and Fiddler  
    
 - layout: left
   company: Stepik
@@ -20,7 +20,7 @@
    Stepik is a cloud-based platform that is designed to create and distribute interactive educational content as well as provide various types of automatically graded assignments with real-time feedback.
   description: | # this will include new lines to allow paragraphs
    I learned the basics of testing in <mark>Python</mark> + <mark>Selenium WebDriver</mark> from simple scripts to working with the <mark>PyTest</mark> framework and other tools. I was working on a project in which
-   I wrote my own automated test framework according to the PageObject pattern and Allure reports.
+   I wrote my own automated test framework according to the PageObject pattern and Allure reports.  
 
 - layout: left
   company: Yandex
@@ -32,4 +32,4 @@
   description: | # this will include new lines to allow paragraphs
    <mark>Regression testing</mark> of different products according to ready-made cases  
    <mark>Exploratory testing</mark> of new features  
-   Test reports
+   Test reports  
