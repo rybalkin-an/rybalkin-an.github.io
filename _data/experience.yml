@@ -15,7 +15,7 @@
   company: Stepik
   link: www.stepik.org
   job_title: Trainee
-  dates: Apr 2020 - Juli 2020
+  dates: Apr 2020 - Jul 2020
   quote: >
    Stepik is a cloud-based platform that is designed to create and distribute interactive educational content as well as provide various types of automatically graded assignments with real-time feedback.
   description: | # this will include new lines to allow paragraphs
@@ -42,5 +42,5 @@
   quote: >
    I was engaged as a crowd tester in exploratory testing of an Internet portal for the sale of watches and accessories.
   description: | # this will include new lines to allow paragraphs
-   Exploratory testing of new features  
-   Test reports  
+   Exploratory testing    
+   Bug reports  
