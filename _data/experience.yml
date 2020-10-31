@@ -42,5 +42,5 @@
   quote: >
    I was engaged as a crowd tester in exploratory testing of an Internet portal for the sale of watches and accessories.
   description: | # this will include new lines to allow paragraphs
-   <mark>Exploratory testing</mark>    
-   <mark>Bug reports</mark>  
+   <mark>Functional</mark> and <mark>Exploratory Testing</mark> of online store website 
+   wrote quality <mark>bug reports</mark>, submitted them to uTest platform, and got it approved  
