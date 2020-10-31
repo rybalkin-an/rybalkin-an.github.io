@@ -25,7 +25,7 @@ linkedin_username: aleksei-rybalkin-b366a9167
 # about_title: About Me
 about_profile_image: images/11b36b21-2f66-4d47-9dc6-b9a886f42ada.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Aleksey, I'm from [Samara](https://goo.gl/maps/yGQ4cK3TAfcqjGUV9), Russia and I'm a SDET.  
+  Hi, my name's Aleksey, I'm a SDET from [Samara](https://goo.gl/maps/yGQ4cK3TAfcqjGUV9), Russia  
   My Tech stack is:
    - Java, Maven, TestNG, Selenide, REST-assured, JDBC, Allure, Selenoid, Intellij IDEA
    - Python, Pytest, Selenium WebDriver, Pycharm
