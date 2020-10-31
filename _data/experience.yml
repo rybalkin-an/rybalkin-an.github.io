@@ -1,6 +1,6 @@
 - layout: left
   company: SimbirSoft
-  link: simbirsoft.com
+  link: www.simbirsoft.com
   job_title: Software Developer Engineer in Test
   dates: May 2020 - Present
   quote: >
@@ -13,7 +13,7 @@
    
 - layout: left
   company: Stepik
-  link: stepik.org
+  link: www.stepik.org
   job_title: Trainee
   dates: Apr 2020 - Juli 2020
   quote: >
@@ -21,10 +21,21 @@
   description: | # this will include new lines to allow paragraphs
    I learned the basics of testing in <mark>Python</mark> + <mark>Selenium WebDriver</mark> from simple scripts to working with the <mark>PyTest</mark> framework and other tools. I was working on a project in which
    I wrote my own automated test framework according to the PageObject pattern and Allure reports.  
+   
+- layout: left
+  company: uTest
+  link: www.utest.com
+  job_title: Software Test Engineer
+  dates: Nov 2019 - Dec 2019
+  quote: >
+   I was engaged as a crowd tester in exploratory testing of an Internet portal for the sale of watches and accessories.
+  description: | # this will include new lines to allow paragraphs
+   Exploratory testing of new features
+   Test reports  
 
 - layout: left
   company: Yandex
-  link: yandex.ru
+  link: www.yandex.ru
   job_title: Assessor-tester
   dates: Oct 2019 - Feb 2020
   quote: >
