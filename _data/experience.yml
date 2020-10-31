@@ -6,4 +6,4 @@
   quote: >
    The company has accumulated experience developing systems in such areas as management, finance, healthcare, education, telecommunications, construction, retail, and oil and gas.
   description: | # this will include new lines to allow paragraphs
-   Developed new and updated existing Automation test cases using Selenide, REST-assured and TestNG, using Maven as build tool and Jenkins to create and run deployment jobs.
+   Developed new and updated existing Automation test cases using <mark>Selenide</mark>, <mark>REST-assured</mark> and TestNG, using Maven as build tool and Jenkins to create and run deployment jobs.
