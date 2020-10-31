@@ -6,7 +6,8 @@
   quote: >
    The company has accumulated experience developing systems in such areas as management, finance, healthcare, education, telecommunications, construction, retail, and oil and gas.
   description: | # this will include new lines to allow paragraphs
-   Developed new and updated existing Automation test cases using <mark>Allure Framework</mark> for documentaion and reports, TestNG as test runner and using Maven as build tool and Jenkins to create and run deployment jobs.
+   Developed new and updated existing Automation test cases using <mark>Allure Framework</mark> for documentaion and reports, <mark>TestNG</mark> as test runner 
+   and using <mark>Maven</mark> as build tool and <mark>Jenkins</mark> to create and run deployment jobs.
    
    For UI testing we used <mark>Selenide</mark>, Chrome Devtools and Xpath
    
