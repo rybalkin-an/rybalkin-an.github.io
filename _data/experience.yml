@@ -14,11 +14,11 @@
 - layout: left
   company: Yandex
   link: yandex.ru
-  job_title: Software Test Engineer
-  dates: May 2020 - Present
+  job_title: Assessor-tester
+  dates: Oct 2019 - Feb 2020
   quote: >
-   The company has accumulated experience developing systems in such areas as management, finance, healthcare, education, telecommunications, construction, retail, and oil and gas.
+   The employer company was providing outstaff service for Yandex projects for testing company software products.
   description: | # this will include new lines to allow paragraphs
-    - regression testing of different products according to ready-made cases
-    - exploratory testing of new features
-    - test reports
+   Regression testing of different products according to ready-made cases  
+   Exploratory testing of new features  
+   Test reports
