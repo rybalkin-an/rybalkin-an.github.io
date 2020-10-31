@@ -42,5 +42,5 @@
   quote: >
    I was engaged as a crowd tester in exploratory testing of an Internet portal for the sale of watches and accessories.
   description: | # this will include new lines to allow paragraphs
-   Exploratory testing    
-   Bug reports  
+   <mark>Exploratory testing</mark>    
+   <mark>Bug reports</mark>  
