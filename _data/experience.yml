@@ -19,8 +19,8 @@
   quote: >
    Stepik is a cloud-based platform that is designed to create and distribute interactive educational content as well as provide various types of automatically graded assignments with real-time feedback.
   description: | # this will include new lines to allow paragraphs
-   I learned the basics of testing in Python + Selenium WebDriver from simple scripts to working with the PyTest framework and other tools. I was working on a project in which
-   I wrote my own automated test framework according to the PageObject pattern.
+   I learned the basics of testing in <mark>Python</mark> + <mark>Selenium WebDriver</mark> from simple scripts to working with the <mark>PyTest</mark> framework and other tools. I was working on a project in which
+   I wrote my own automated test framework according to the PageObject pattern and Allure reports.
 
 - layout: left
   company: Yandex
@@ -30,6 +30,6 @@
   quote: >
    The employer company was providing outstaff service for Yandex projects for testing company software products.
   description: | # this will include new lines to allow paragraphs
-   Regression testing of different products according to ready-made cases  
-   Exploratory testing of new features  
+   <mark>Regression testing</mark> of different products according to ready-made cases  
+   <mark>Exploratory testing</mark> of new features  
    Test reports
