@@ -35,8 +35,8 @@ about_content: | # this will include new lines to allow paragraphs
 # Projects Section
 # projects_title: Projects
 
-# Experience Section
-# experience_title: Experience
+Experience Section
+experience_title: Experience
 
 # Education Section
 # educaton_title: Education
@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
 #   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
