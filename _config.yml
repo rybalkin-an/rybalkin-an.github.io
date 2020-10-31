@@ -1,6 +1,7 @@
 # Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
+darkmode: true
 
 # Personal info
 name: Aleksey Rybalkin
