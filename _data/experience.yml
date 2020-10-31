@@ -10,6 +10,17 @@
    and using <mark>Maven</mark> as build tool and <mark>Jenkins</mark> to create and run deployment jobs.  
    For UI testing we used <mark>Selenide</mark>, Chrome Devtools and Xpath  
    For API testing we used <mark>REST-assured</mark>, Postman and Fiddler
+   
+- layout: left
+  company: Stepik
+  link: stepik.org
+  job_title: Trainee
+  dates: Apr 2020 - Juli 2020
+  quote: >
+   Stepik is a cloud-based platform that is designed to create and distribute interactive educational content as well as provide various types of automatically graded assignments with real-time feedback.
+  description: | # this will include new lines to allow paragraphs
+   I learned the basics of testing in Python + Selenium WebDriver from simple scripts to working with the PyTest framework and other tools. I was working on a project in which
+   I wrote my own automated test framework according to the PageObject pattern.
 
 - layout: left
   company: Yandex
