@@ -6,10 +6,10 @@
   quote: >
    SimbirSoft is a software development company providing unique software solutions for large- and medium-sized companies in Eastern and Western Europe, North America, Asia and Australia.
   description: | # this will include new lines to allow paragraphs
-   Developed new and updated existing Automation test cases using <mark>Allure Framework</mark> for documentation and reports, <mark>TestNG</mark> as test runner 
-   and using <mark>Maven</mark> as build tool and <mark>Jenkins</mark> to create and run deployment jobs;  
-   For UI testing we used <mark>Selenide</mark>, Chrome Devtools and Xpath;  
-   For API testing we used <mark>REST-assured</mark>, Postman and Fiddler  
+   Microservices checks (considering positive and negative testing scenarios)
+   Contract API checks (component autotests)
+   Application interaction checks (integration autotests)
+   Checks for interface processes (end2end autotests)
    
 - layout: left
   company: Stepik
