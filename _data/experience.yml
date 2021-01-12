@@ -9,7 +9,7 @@
    Microservices checks (considering positive and negative testing scenarios)  
    Contract API checks (component autotests)  
    Application interaction checks (integration autotests)  
-   Checks for interface processes (end2end autotests)  
+   Web interface checks (end2end autotests)  
    
 - layout: left
   company: Stepik
