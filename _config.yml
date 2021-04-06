@@ -28,7 +28,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Aleksey, I'm a SDET from [Samara](https://goo.gl/maps/t46pgar74FkLE43BA), Russia  
   
   My Tech stack is:
-   - Java, Maven, Gradle, TestNG, Selenide, REST-assured, JDBC, Allure, Selenoid, Intellij IDEA
+   - Java, Maven, Gradle, TestNG, JUnit 5, Selenide, REST-assured, JDBC, Allure, Selenoid, Intellij IDEA
    - Python, Pytest, Selenium WebDriver, Pycharm
    - SQL, DBeaver 
    - Chrome DevTools, Postman, SoapUI
