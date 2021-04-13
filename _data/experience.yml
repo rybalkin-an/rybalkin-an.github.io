@@ -6,10 +6,10 @@
   quote: >
    SimbirSoft is a software development company providing unique software solutions for large- and medium-sized companies in Eastern and Western Europe, North America, Asia and Australia.
   description: | # this will include new lines to allow paragraphs
-   Microservices checks (considering positive and negative testing scenarios)  
-   Contract API checks (component autotests)  
+   <mark>Microservices checks</mark> (considering positive and negative testing scenarios)  
+   Contract <mark>API</mark> checks (component autotests)  
    Application interaction checks (integration autotests)  
-   Web interface checks (end2end autotests)  
+   Web interface checks (<mark>end2end UI</mark> autotests)  
    
 - layout: left
   company: Stepik
