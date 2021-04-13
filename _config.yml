@@ -32,7 +32,7 @@ about_content: | # this will include new lines to allow paragraphs
    - Python, Pytest, Selenium WebDriver, Pycharm
    - SQL, DBeaver 
    - Chrome DevTools, Postman, SoapUI
-   - Docker, Jenkins, Teamcity, Kotlin DSL
+   - Docker, Jenkins, Teamcity, Kotlin DSL, Kibana
    
    Ich kann ein bisschen Deutsch sprechen (Goethe-Zertifikat B1)
 
