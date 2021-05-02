@@ -8,7 +8,7 @@
   description: | # this will include new lines to allow paragraphs
    Сreation <mark>API</mark> autotests for microservices from scratch (REST-assured)  
    Creation <mark>UI end-2-end</mark> autotests (Selenide framework)  
-   Creation build chains in <mark>Teamcity</mark>via Kotlin DSL 
+   Creation build chains in <mark>Teamcity</mark>via Kotlin DSL  
    Developing new <mark>UI end-2-end</mark> tests for internet banking services using the existing BDD framework  
    Updating existing automation tests (UI and API) for workflow management software and improved CI process in Jenkins  
    
