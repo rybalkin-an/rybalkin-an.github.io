@@ -31,6 +31,6 @@
   quote: >
    The employer company was providing outstaff service for Yandex projects for testing company software products.
   description: | # this will include new lines to allow paragraphs
-   <mark>Regression testing</mark> of different products according to ready-made cases;  
-   <mark>Exploratory testing</mark> of new features;  
+   <mark>Regression testing</mark> of different products according to ready-made cases  
+   <mark>Exploratory testing</mark> of new features of Web and Mobile apps  
    Test reports  
