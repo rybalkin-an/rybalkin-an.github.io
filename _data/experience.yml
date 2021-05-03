@@ -34,14 +34,3 @@
    <mark>Regression testing</mark> of different products according to ready-made cases;  
    <mark>Exploratory testing</mark> of new features;  
    Test reports  
-      
-- layout: left
-  company: uTest
-  link: www.utest.com
-  job_title: Software Test Engineer
-  dates: Nov 2019 - Dec 2019
-  quote: >
-   I was engaged as a crowd tester in testing an international E-commerce platform for the sale of watches and accessories.
-  description: | # this will include new lines to allow paragraphs
-   <mark>Functional</mark> and <mark>Exploratory Testing</mark> of online store website;  
-   I wrote quality <mark>bug reports</mark>, submitted them to the uTest platform, and got them approved
