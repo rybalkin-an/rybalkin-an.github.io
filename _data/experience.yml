@@ -13,17 +13,6 @@
    Updating existing automation tests (UI and API) for workflow management software and improved CI process in Jenkins  
    
 - layout: left
-  company: Stepik
-  link: www.stepik.org
-  job_title: Trainee
-  dates: Apr 2020 - Jul 2020
-  quote: >
-   Stepik is a cloud-based platform that is designed to create and distribute interactive educational content as well as provide various types of automatically graded assignments with real-time feedback.
-  description: | # this will include new lines to allow paragraphs
-   I learned the basics of testing in <mark>Python</mark> + <mark>Selenium WebDriver</mark> from simple scripts to working with the <mark>PyTest</mark> framework and other tools. I was working on a project in which
-   I wrote my own automated test framework according to the PageObject pattern and Allure reports.  
-
-- layout: left
   company: Yandex
   link: www.yandex.ru
   job_title: Assessor-tester
@@ -34,3 +23,16 @@
    <mark>Regression testing</mark> of different products according to ready-made cases  
    <mark>Exploratory testing</mark> of new features of Web and Mobile apps  
    Test reports  
+   
+   - layout: left
+  company: Land Group Russia
+  link: www.land-group.ru 
+  job_title: Hardware Egnineer
+  dates: Aug 2015 - Jan 2020
+  quote: >
+   Land Group Russia, esteblished in 1993, specialises in design, construction and equipment of objects of food industry, supermarkets and stores.   
+  description: | # this will include new lines to allow paragraphs
+    Define project requirements  
+    Caloric and hydraulic calculation of refrigeration devices  
+    Creation of a design project for the refrigeration system for retail properties  
+    Setup and programming microcontrollers and monitoring systems  
