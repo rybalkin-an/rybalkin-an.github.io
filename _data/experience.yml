@@ -6,9 +6,9 @@
   quote: >
    The Rhenus Group provides logistics services around the globe and has annual turnover amounting to EUR 5.4 billion. Rhenus employs more than 33,500 people at more than 820 locations worldwide. The Rhenus Group provides solutions for a wide variety of different sectors along the complete supply chain; they include multimodal transport operations, warehousing, customs clearance as well as innovative valueadded services.
   description: | # this will include new lines to allow paragraphs
-   Manual testing of new features
-   Creation back-end autotests (Junit)
-   LWIS testing
+   Manual testing of new features  
+   Creation back-end autotests (Junit)  
+   LWIS testing  
 
 - layout: left
   company: First Line Software
@@ -18,10 +18,10 @@
   quote: >
    First Line Software is a premier provider of software engineering, software enablement, and digital transformation advisory services to clients across North America, Europe, Asia, and Australia.
   description: | # this will include new lines to allow paragraphs
-   Manual testing of new features
-   Dicom testing
+   Manual testing of new features  
+   Dicom testing  
    Refactoring existed <mark>UI framework</mark> (JDI framework)  
-   Enhancing existed framework with API methods
+   Enhancing existed framework with API methods  
 
 - layout: left
   company: SimbirSoft
