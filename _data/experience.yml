@@ -1,8 +1,33 @@
 - layout: left
+  company: Rhenus Freight Network Gmbh
+  link: www.rhenus.group
+  job_title: Agiler Software Tester
+  dates: November 2021 - Present
+  quote: >
+   The Rhenus Group provides logistics services around the globe and has annual turnover amounting to EUR 5.4 billion. Rhenus employs more than 33,500 people at more than 820 locations worldwide. The Rhenus Group provides solutions for a wide variety of different sectors along the complete supply chain; they include multimodal transport operations, warehousing, customs clearance as well as innovative valueadded services.
+  description: | # this will include new lines to allow paragraphs
+   Manual testing of new features
+   Creation back-end autotests (Junit)
+   LWIS testing
+
+- layout: left
+  company: First Line Software
+  link: www.firstlinesoftware.com
+  job_title: QA Automation Engineer
+  dates: July 2021 - November 2021
+  quote: >
+   First Line Software is a premier provider of software engineering, software enablement, and digital transformation advisory services to clients across North America, Europe, Asia, and Australia.
+  description: | # this will include new lines to allow paragraphs
+   Manual testing of new features
+   Dicom testing
+   Refactoring existed <mark>UI framework</mark> (JDI framework)  
+   Enhancing existed framework with API methods
+
+- layout: left
   company: SimbirSoft
   link: www.simbirsoft.com
   job_title: Software Development Engineer in Test
-  dates: May 2020 - Present
+  dates: May 2020 - July 2021
   quote: >
    SimbirSoft is a software development company providing unique software solutions for large- and medium-sized companies in Eastern and Western Europe, North America, Asia and Australia.
   description: | # this will include new lines to allow paragraphs
