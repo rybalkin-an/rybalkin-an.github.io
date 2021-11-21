@@ -20,8 +20,8 @@
   description: | # this will include new lines to allow paragraphs
    Manual testing of new features  
    Dicom testing  
-   Refactoring existed <mark>UI framework</mark> (JDI framework)  
-   Enhancing existed framework with API methods  
+   Refactoring existed UI framework (<mark>JDI framework</mark>)  
+   Enhancing existed framework with <mark>API</mark> methods  
 
 - layout: left
   company: SimbirSoft
