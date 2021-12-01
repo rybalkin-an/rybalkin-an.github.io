@@ -25,12 +25,12 @@ linkedin_username: aleksey-rybalkin
 # about_title: About Me
 about_profile_image: images/4785e26b-af26-444e-afd4-24caf8cea6a21.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Aleksei, I'm a SDET from [Samara](https://goo.gl/maps/t46pgar74FkLE43BA), Russia  
+  Hi, my name's Aleksei, I'm a SDET from [Samara](https://goo.gl/maps/t46pgar74FkLE43BA), Russia. Currently located in Dortmund.  
   
   My Tech stack is:
-   - Java, Maven, Gradle, TestNG, JUnit 5, Selenide, REST-assured, JDBC, Allure, Selenoid, Intellij IDEA
+   - Java, Maven, Gradle, TestNG, JUnit 5, Selenide, REST-assured, JDBC, Allure, Selenoid, Intellij IDEA, Apache Kafka
    - Python, Pytest, Selenium WebDriver, Pycharm
-   - SQL, DBeaver 
+   - SQL, DBeaver
    - Chrome DevTools, Postman, SoapUI
    - Docker, Jenkins, Teamcity, Kotlin DSL, Kibana
    
