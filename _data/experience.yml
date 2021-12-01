@@ -9,6 +9,7 @@
    Manual testing of new features  
    Creation and maintenance backend autotests (<mark>Junit</mark>)  
    <mark>LWIS</mark> testing  
+   Apache <mark>Kafka</mark>  
 
 - layout: left
   company: First Line Software
