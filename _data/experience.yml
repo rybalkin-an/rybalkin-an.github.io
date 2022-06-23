@@ -6,7 +6,7 @@
   quote: >
    The Rhenus Group provides logistics services around the globe and has annual turnover amounting to EUR 5.4 billion. Rhenus employs more than 33,500 people at more than 820 locations worldwide. The Rhenus Group provides solutions for a wide variety of different sectors along the complete supply chain; they include multimodal transport operations, warehousing, customs clearance as well as innovative valueadded services.
   description: | # this will include new lines to allow paragraphs
-   Manual testing of new features  
+   <mark>Manual testing</mark> of new features  
    Creation and maintenance backend autotests (<mark>Junit 5, REST-assured</mark>)  
    Apache <mark>Kafka</mark>  
 
