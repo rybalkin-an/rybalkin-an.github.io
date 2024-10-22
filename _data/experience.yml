@@ -7,9 +7,13 @@
    The Rhenus Group provides logistics services around the globe and has annual turnover amounting to EUR 5.4 billion. Rhenus employs more than 33,500 people at more than 820 locations worldwide. The Rhenus Group provides solutions for a wide variety of different sectors along the complete supply chain; they include multimodal transport operations, warehousing, customs clearance as well as innovative value-added services.
   description: | # this will include new lines to allow paragraphs
    I planned and executed QA activities for sprint cycles and long-term initiatives, balancing 50% manual and 50% automated testing. This approach led to a 30% reduction in production defects, utilizing tools like <mark>Jira</mark>, <mark>Confluence</mark>, and <mark>Miro</mark>, all within an Agile environment.
+   
    I introduced and implemented <mark>qase.io</mark> as a test management platform, enabling the orchestration of QA activities with speed and efficiency.  
+   
    I designed and implemented integration testing for <mark>Spring Boot</mark> services integrated with legacy systems and <mark>Camunda BPM</mark>.  
+   
    I executed manual functional tests for web applications using <mark>Postman</mark>, <mark>DBeaver</mark>, and <mark>DevTools</mark>.  
+   
    I developed a comprehensive test automation strategy from scratch for API testing (<mark>Java 17</mark>, <mark>REST-assured</mark>, <mark>spring-boot-starter-test</mark>) and end-to-end UI testing (<mark>Selenide</mark>, <mark>testcontainers</mark>).
 
 
