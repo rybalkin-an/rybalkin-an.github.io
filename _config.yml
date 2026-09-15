@@ -1,3 +1,4 @@
+```yaml
 # Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
@@ -5,36 +6,35 @@ darkmode: false
 
 # Personal info
 name: Aleksei Rybalkin
-title: Agile Software Tester
+title: QA Engineer
 email: rybalkine@gmail.com
 # website: www.github.com/rybalkin-an
 
 # Social links
-# twitter_username: facespics
-github_username:  rybalkin-an
-# dribbble_username: jekyll
+github_username: rybalkin-an
 facebook_username: alexei.rybalkine
-# flickr_username: jekyll
 instagram_username: leshjkestreetarthunter
 linkedin_username: aleksei-rybalkin
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/4785e26b-af26-444e-afd4-24caf8cea6a21.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Aleksei, I'm a QA Engineer from [Samara](https://goo.gl/maps/t46pgar74FkLE43BA), Russia. Currently located in Dortmund. I'm ISTQB® [Certified Tester](https://www.gasq.org/en/registration/expert/38981e13-c39d-48a8-9e54-9758d479366c.html).  
-  
-  My Tech stack is:
-   - Java, Maven, Gradle, TestNG, JUnit 5, Selenide, REST-assured, JDBC, Allure, Selenoid, Intellij IDEA, Apache Kafka
-   - Python, Pytest, Selenium WebDriver, Pycharm
-   - SQL, DBeaver
-   - Chrome DevTools, Postman, SoapUI
-   - Docker, Jenkins, Teamcity, Kotlin DSL, Kibana
-   
-   Ich kann ein bisschen Deutsch sprechen (Goethe-Zertifikat B1)
+  Hi, my name's Aleksei, I'm a QA Engineer based in Düsseldorf, Germany. I have 8+ years of experience across fintech, logistics, and industrial technology, with a strong focus on test automation, quality engineering, and software quality. I'm ISTQB® Certified Tester.
+
+  My current tech stack includes:
+   - Java, TypeScript, Python, Bash, SQL, Maven, Gradle
+   - Playwright, Selenium, Selenide, REST-assured, TestNG, JUnit, Cucumber, Testcontainers
+   - API, UI, integration, end-to-end, regression, performance, resilience, chaos, and exploratory testing
+   - Kubernetes, OpenShift, Docker, Docker Compose, Helm, Ansible, AWS, Google Cloud, Azure
+   - Jenkins, GitHub Actions, GitLab CI/CD, GitOps
+   - PostgreSQL, MariaDB, MSSQL, MySQL, Oracle DB, InfluxDB, Kafka, MQTT, NATS JetStream
+   - Grafana, Prometheus, Loki, Toxiproxy, Chaos Mesh
+   - REST, HTTP, MQTT, Kafka, OAuth 2.0, JWT, LDAP, Active Directory, OpenLDAP, mTLS, TLS
+   - Jira, Confluence, Qase.io, TestRail, Zephyr Scale, Postman, Swagger, Wireshark, Fiddler, DBeaver, Camunda
+   - AI-assisted and agentic testing, including AI-assisted test generation, analysis, and debugging
+
+  Ich kann ein bisschen Deutsch sprechen (B1+).
 
 # Projects Section
 # projects_title: Projects
@@ -66,3 +66,4 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+```
