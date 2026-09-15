@@ -1,20 +1,49 @@
 - layout: left
+  company: Cybus GmbH
+  link: www.cybus.io
+  job_title: QA Engineer
+  dates: November 2024 - Present
+  quote: >
+   Cybus develops industrial IoT and data-integration software connecting shop-floor systems with enterprise applications.
+  description: |
+   Led QA and test automation for a distributed industrial IoT and data-integration platform connecting shop-floor systems with enterprise applications.
+
+   Designed and maintained automated API and UI tests using <mark>Playwright</mark>, <mark>TypeScript</mark>, and <mark>Python</mark>, covering REST APIs, authentication, resource management, integrations, permissions, and end-to-end workflows.
+
+   Tested distributed services, data pipelines, messaging infrastructure, containerized applications, and integrations across <mark>Kubernetes</mark>, <mark>OpenShift</mark>, <mark>Docker</mark>, and <mark>Docker Compose</mark> environments.
+
+   Performed functional, integration, regression, endurance, resilience, load, chaos, and exploratory testing across complex distributed systems.
+
+   Used <mark>Chaos Mesh</mark> and <mark>Toxiproxy</mark> for network fault injection, latency, packet loss, and partition scenarios to validate system resilience and failure handling.
+
+   Automated infrastructure provisioning and environment setup with <mark>Ansible</mark> and managed deployments using <mark>Kubernetes</mark> and <mark>Helm</mark>.
+
+   Tested integrations with industrial protocols, messaging systems, databases, HTTP/REST APIs, and external enterprise systems using simulators, emulators, and dedicated test environments.
+
+   Investigated and resolved 40+ defects across backend services, integrations, distributed components, and web applications, using AI-assisted analysis with <mark>Claude</mark> to accelerate debugging, test design, and root-cause investigation.
+
+   Collaborated with developers and product teams on sprint planning, technical refinement, quality strategy, release testing, and continuous improvement.
+
+
+- layout: left
   company: Rhenus Freight Network Gmbh
   link: www.rhenus.group
   job_title: Agiler Software Tester
-  dates: November 2021 - Present
+  dates: November 2021 - September 2024
   quote: >
-   The Rhenus Group provides logistics services around the globe and has annual turnover amounting to EUR 5.4 billion. Rhenus employs more than 33,500 people at more than 820 locations worldwide. The Rhenus Group provides solutions for a wide variety of different sectors along the complete supply chain; they include multimodal transport operations, warehousing, customs clearance as well as innovative value-added services.
-  description: | # this will include new lines to allow paragraphs
-   I planned and executed QA activities for sprint cycles and long-term initiatives, balancing 50% manual and 50% automated testing. This approach led to a 30% reduction in production defects, utilizing tools like <mark>Jira</mark>, <mark>Confluence</mark>, and <mark>Miro</mark>, all within an Agile environment.
-   
-   I introduced and implemented <mark>qase.io</mark> as a test management platform, enabling the orchestration of QA activities with speed and efficiency.  
-   
-   I designed and implemented integration testing for <mark>Spring Boot</mark> services integrated with legacy systems and <mark>Camunda BPM</mark>.  
-   
-   I executed manual functional tests for web applications using <mark>Postman</mark>, <mark>DBeaver</mark>, and <mark>DevTools</mark>.  
-   
-   I developed a comprehensive test automation strategy from scratch for API testing (<mark>Java 17</mark>, <mark>REST-assured</mark>, <mark>spring-boot-starter-test</mark>) and end-to-end UI testing (<mark>Selenide</mark>, <mark>testcontainers</mark>).
+   The Rhenus Group provides logistics services around the globe and has annual turnover amounting to EUR 5.4 billion. Rhenus employs more than 33,500 people at more than 820 locations worldwide.
+  description: |
+   I planned and executed QA activities for sprint cycles and long-term initiatives, balancing 50% manual and 50% automated testing. This approach contributed to a 30% reduction in production defects, utilizing tools like <mark>Jira</mark>, <mark>Confluence</mark>, and <mark>Miro</mark> within an Agile environment.
+
+   I introduced and implemented <mark>Qase.io</mark> as a test management platform, improving orchestration and tracking of QA activities.
+
+   I designed and implemented integration testing for <mark>Spring Boot</mark> services integrated with legacy systems and <mark>Camunda BPM</mark>.
+
+   I developed a comprehensive test automation strategy from scratch for API testing using <mark>Java 17</mark>, <mark>REST-assured</mark>, and <mark>Spring Boot</mark> testing frameworks, and end-to-end UI testing using <mark>Selenide</mark> and <mark>Testcontainers</mark>.
+
+   I reduced manual testing effort by 66% through automation of API, UI, and integration test scenarios.
+
+   I tested cloud-based services, databases, APIs, and business workflows using <mark>Google Cloud</mark>, <mark>MySQL</mark>, <mark>Postman</mark>, <mark>DBeaver</mark>, and browser <mark>DevTools</mark>.
 
 
 - layout: left
@@ -23,12 +52,18 @@
   job_title: QA Automation Engineer
   dates: July 2021 - November 2021
   quote: >
-   First Line Software is a premier provider of software engineering, software enablement, and digital transformation advisory services to clients across North America, Europe, Asia, and Australia.
-  description: | # this will include new lines to allow paragraphs
-   Manual testing of new features  
-   <mark>Dicom</mark> testing  
-   Refactoring existed UI framework (<mark>JDI framework</mark>)  
-   Enhancing existed framework with <mark>API</mark> methods  
+   First Line Software is a software engineering and digital transformation company.
+  description: |
+   Developed and maintained automated test suites using <mark>Java 8</mark>, <mark>TestNG</mark>, <mark>REST-assured</mark>, and <mark>Jenkins</mark>.
+
+   Executed end-to-end testing across UI and API layers, improving system reliability and reducing production issues.
+
+   Automated UI testing using the <mark>JDI framework</mark> and API testing using <mark>REST-assured</mark>.
+
+   Optimized automated test data generation, reducing preparation time by 50%.
+
+   Performed regression and manual testing of web applications using <mark>Dicom</mark>, <mark>Postman</mark>, <mark>Swagger</mark>, <mark>DBeaver</mark>, and <mark>Google Cloud</mark> environments.
+
 
 - layout: left
   company: SimbirSoft
@@ -36,35 +71,46 @@
   job_title: Software Development Engineer in Test
   dates: May 2020 - July 2021
   quote: >
-   SimbirSoft is a software development company providing unique software solutions for large- and medium-sized companies in Eastern and Western Europe, North America, Asia and Australia.
-  description: | # this will include new lines to allow paragraphs
-   Сreation <mark>API</mark> autotests for microservices from scratch (REST-assured)  
-   Creation <mark>UI end-2-end</mark> autotests (Selenide framework)  
-   Creation build chains in <mark>Teamcity</mark>via Kotlin DSL  
-   Developing new <mark>UI end-2-end</mark> tests for internet banking services using the existing BDD framework  
-   Updating existing automation tests (UI and API) for workflow management software and improved CI process in Jenkins  
-   
+   SimbirSoft is a software development company providing software solutions for companies across multiple industries and regions.
+  description: |
+   Implemented test automation strategies using <mark>Java 11</mark>, <mark>Jenkins</mark>, and <mark>TeamCity</mark>, integrating automated testing into CI/CD processes.
+
+   Participated in the transition from monolithic architecture to microservices in the fintech domain, implementing quality gates and applying <mark>TDD</mark> practices.
+
+   Automated UI testing using <mark>Selenium</mark>, <mark>Selenide</mark>, <mark>Selenoid</mark>, <mark>Cucumber</mark>, and <mark>TestNG</mark>, reducing manual testing effort by 50%.
+
+   Conducted API and performance testing using <mark>REST-assured</mark>, <mark>JMeter</mark>, <mark>Postman</mark>, <mark>SoapUI</mark>, and <mark>JUnit</mark>.
+
+   Performed manual functional, regression, and integration testing using <mark>Fiddler</mark>, <mark>DBeaver</mark>, <mark>DevTools</mark>, and <mark>Swagger</mark>.
+
+
 - layout: left
   company: Yandex
   link: www.yandex.ru
   job_title: Assessor-tester
-  dates: Oct 2019 - Feb 2020
+  dates: October 2019 - February 2020
   quote: >
-   The employer company was providing outstaff service for Yandex projects for testing company software products.
-  description: | # this will include new lines to allow paragraphs
-   <mark>Regression testing</mark> of different products according to ready-made cases  
-   <mark>Exploratory testing</mark> of new features of Web and Mobile apps  
-   Test reports  
-   
+   The employer company was providing outstaff services for Yandex projects focused on testing software products.
+  description: |
+   Executed <mark>regression testing</mark> of web and mobile applications using predefined test cases.
+
+   Performed <mark>exploratory testing</mark> of new features and identified functional and usability issues.
+
+   Prepared test reports summarizing findings and actionable recommendations for stakeholders.
+
+
 - layout: left
   company: Land Group
-  link: www.land-group.ru 
-  job_title: Hardware Egnineer
-  dates: Aug 2015 - Jan 2020
+  link: www.land-group.ru
+  job_title: Hardware Engineer
+  dates: August 2015 - May 2020
   quote: >
-   Land Group Russia, esteblished in 1993, specialises in design, construction and equipment of objects of food industry, supermarkets and stores.   
-  description: | # this will include new lines to allow paragraphs
-    Define project requirements  
-    Caloric and hydraulic calculation of refrigeration devices  
-    Creation of a design project for the refrigeration system for retail properties  
-    Setup and programming microcontrollers and monitoring systems  
+   Land Group Russia specialises in the design, construction, and equipment of food industry facilities, supermarkets, and stores.
+  description: |
+   Collaborated with stakeholders to define technical requirements, system performance criteria, and regulatory requirements.
+
+   Conducted thermal and hydraulic analysis of refrigeration systems and optimized system performance.
+
+   Designed and implemented customized refrigeration solutions for more than 100 supermarkets and 10 hypermarkets.
+
+   Integrated microcontrollers for automated control and real-time monitoring.
