@@ -1,4 +1,3 @@
-```yaml
 # Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
@@ -66,4 +65,3 @@ sass:
 
 plugins:
  - jekyll-seo-tag
-```
