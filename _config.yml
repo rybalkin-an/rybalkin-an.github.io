@@ -22,18 +22,20 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Aleksei, I'm a QA Engineer based in Düsseldorf, Germany. I have 8+ years of experience across fintech, logistics, and industrial technology, with a strong focus on test automation, quality engineering, and software quality. I'm ISTQB® Certified Tester.
 
   My current tech stack includes:
-   - Java, TypeScript, Python, Bash, SQL, Maven, Gradle
-   - Playwright, Selenium, Selenide, REST-assured, TestNG, JUnit, Cucumber, Testcontainers
-   - API, UI, integration, end-to-end, regression, performance, resilience, chaos, and exploratory testing
-   - Kubernetes, OpenShift, Docker, Docker Compose, Helm, Ansible, AWS, Google Cloud, Azure
-   - Jenkins, GitHub Actions, GitLab CI/CD, GitOps
-   - PostgreSQL, MariaDB, MSSQL, MySQL, Oracle DB, InfluxDB, Kafka, MQTT, NATS JetStream
-   - Grafana, Prometheus, Loki, Toxiproxy, Chaos Mesh
-   - REST, HTTP, MQTT, Kafka, OAuth 2.0, JWT, LDAP, Active Directory, OpenLDAP, mTLS, TLS
-   - Jira, Confluence, Qase.io, TestRail, Zephyr Scale, Postman, Swagger, Wireshark, Fiddler, DBeaver, Camunda
-   - AI-assisted and agentic testing, including AI-assisted test generation, analysis, and debugging
+  - Linux, Java, TypeScript, Python, Bash, SQL, YAML, JSONata, Maven, Gradle, Git
+  - Playwright, Selenium, Selenide, REST-assured, TestNG, JUnit, Cucumber, Testcontainers
+  - API, UI, integration, end-to-end, regression, performance, load, benchmark, resilience, chaos, and exploratory testing
+  - AI-assisted and agentic testing, including AI-assisted test generation, test analysis, debugging, and test automation
+  - Kubernetes (K8s), OpenShift, Docker, Docker Compose, Helm, Ansible, AWS, EC2, EKS, S3, Google Cloud, Azure
+  - Jenkins, GitHub Actions, GitLab CI/CD, GitOps, Grafana, Prometheus, Loki, Toxiproxy, Chaos Mesh
+  - PostgreSQL, MariaDB, MSSQL, MySQL, Oracle DB, InfluxDB, Kafka, MQTT, NATS JetStream, VerneMQ
+  - REST, HTTP, MQTT, Kafka, OAuth 2.0, JWT, MFA, SSO, RBAC, LDAP, Active Directory, OpenLDAP, mTLS, TLS, Microsoft Entra ID
+  - Microservices, distributed systems, API integrations, protocol/device simulators, and industrial integrations
+  - ADS, BACnet, Ethernet/IP, FANUC FOCAS, Heidenhain DNC, Modbus/TCP, MTConnect SHDR, OPC DA, OPC UA, Siemens SIMATIC S7, Siemens SIMATIC S7+, SINUMERIK, SOPAS, WERMA-WIN Ethernet
+  - Jira, Confluence, Qase.io, TestRail, Zephyr Scale, Postman, Swagger, Wireshark, Fiddler, DBeaver, Camunda, IntelliJ IDEA
+  - Agile, Scrum, TDD, BDD, Shift-left Testing, Quality Gates, and CI/CD
 
-  Ich kann ein bisschen Deutsch sprechen (B1+).
+Ich kann ein bisschen Deutsch sprechen (B1+).
 
 # Projects Section
 # projects_title: Projects
